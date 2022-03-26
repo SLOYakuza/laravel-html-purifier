@@ -3,6 +3,8 @@ Prečisovalnica HTML za Laravel
 
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [![Software License][ico-license]](LICENSE)
+[![Packagist](https://img.shields.io/packagist/v/sloyakuza/laravel-html-purifier)](https://packagist.org/packages/sloyakuza/laravel-html-purifier/)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/sloyakuza/laravel-html-purifier.svg?label=packagist%20downloads)](https://packagist.org/packages/sloyakuza/laravel-html-purifier)
 
 Preprosta [Laravel](http://www.laravel.com/) ponudnik storitev za enostavno uporabo [HTMLPurifier](http://htmlpurifier.org/) v Laravelu. Z njihove spletne strani:
 
