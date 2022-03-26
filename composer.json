@@ -38,7 +38,7 @@
   },
   "autoload": {
     "psr-4": {
-      "SLOshare\\Purifier\\": "src/"
+      "SLOYakuza\\Purifier\\": "src/"
     },
     "files": [
       "src/helpers.php"
@@ -46,7 +46,7 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "SLOshare\\Tests\\Purifier\\": "tests/"
+      "SLOYakuza\\Tests\\Purifier\\": "tests/"
     }
   },
   "extra": {
